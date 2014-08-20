@@ -3,4 +3,4 @@ BitcoinGraph
 
 BitcoinProkect
 
-Making Bitcoin Graph Application, 2014 0819 :)
+Making Bitcoin Graph Application, 2014 0819 !
